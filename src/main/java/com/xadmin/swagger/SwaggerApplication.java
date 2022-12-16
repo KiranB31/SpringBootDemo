@@ -12,6 +12,7 @@ public class SwaggerApplication {
 		SpringApplication.run(SwaggerApplication.class, args);
 		System.out.println("Kiran");
 		System.out.println("Kiran2");
+		System.out.println("Kiran3");
 	}
 
 }
